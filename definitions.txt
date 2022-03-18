@@ -1,0 +1,32 @@
+
+****definition serveurWeb****
+
+Un service Web est défini comme « un système logiciel conçu pour prendre en charge une interaction interopérable de machine à machine sur un réseau ». 
+Les services Web ne sont souvent que des API Web accessibles sur un réseau, 
+tel qu'Internet, et exécutées sur un système distant hébergeant les services demandés.
+
+**************************************************************************************API*********************************************************************************
+
+exemple : une api meteo demande a l'utilisateur une adresse et lui donne les temperature max et min
+c'est un peu comme un mediateur entre l'utilisateur et le serveur
+
+une API est 
+
+****************************************************************************restAPI***************************************************************************************
+
+Une API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) 
+qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. 
+L'architecture REST (Representational State Transfer) a été créée par l'informaticien Roy Fielding.
+
+****************************************************************************fastAPI***************************************************************************************
+
+FastAPI est un framework Web moderne et rapide (haute performance) pour la création d'API avec Python 3.6+ basé sur des conseils de type Python standard.
+C'est un peu comme django python en plus recent
+
+*******************************************uvicorn*******************************************************************************************************************
+
+pour demarrer notre serveur
+
+**************************************************************API key*************************************************************************************************
+
+keyAPI : vDhTgxV2FxLvkWOF4wpRkRsTVdJrXeOW
