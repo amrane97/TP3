@@ -1,0 +1,8 @@
+application ID : 958693873583001600
+
+public key : 15f53c457c1f41e9a70b654f87aba05874a47bb22919d07db8e0a514b3d0e6a8
+
+un bot discord est un robot qui est programmé pour repondre a des commande et a avoir un comportement special suite a certaines entrées de l'utilisateur
+
+un logger est comme un journal de tout ce qui a été fait par les differents acteur.
+
